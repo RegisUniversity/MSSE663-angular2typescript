@@ -19,13 +19,12 @@
     "rxjs": "^5.1.0",
     "zone.js": "^0.7.6",
     "systemjs": "0.19.37",
-
     "bootstrap": "^3.3.6",
     "jquery": "^2.2.2"
   },
   "devDependencies": {
     "@types/es6-shim": "0.0.28",
     "live-server": "0.8.2",
-    "typescript": "^2.0.0"
+    "typescript": "2.0.0"
   }
 }
